@@ -609,3 +609,22 @@ body{
    padding-bottom: 0;
 }
 }
+
+.bd30{
+   position: relative;
+   padding-left:15px;
+   padding-top: 12px;;
+}
+.bd30 a {
+   color:#007bff;
+   font-size:18px;
+   font-weight:600;
+   text-decoration: none;
+
+
+}
+.bd30 a:hover {
+   display:block ;
+    color: mediumblue;
+    text-decoration: underline;
+}
