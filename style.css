@@ -1,0 +1,611 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bar{
+
+    background: #343a40;
+    position: relative;
+    display: flex;
+    height: 80px;
+}
+.bar a{
+    margin-top: 20px;
+    margin-left: 5%;
+    color:white;
+    font-size: 30px;
+    text-decoration: none;
+}
+.bar a:hover{
+    color: #007bff;
+}
+.bd0{
+
+    padding-left: 40px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+ .bd1{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd1 a {
+    color:#007bff;
+    font-size:16px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd1 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd1 a img {
+   padding-top: 20px;
+   height: 20px;
+ }
+
+
+ .bd2{
+    position: relative;
+    padding-left:15px;
+    
+ }
+ .bd2 a {
+    color:#007bff;
+    font-size:16px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd2 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd2 a img {
+   padding-top: 10px;
+   height: 20px;
+  
+ }
+ .bd3{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd3 a {
+    color:#007bff;
+    font-size:16px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd3 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd3 img{
+     height: 20px;
+     width: 20px;
+ }
+.bd3 span {
+    font-size: 20px;
+}
+ .bd4{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd4 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd4 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ 
+ .bd5{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd5 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd5 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+
+ .bd6{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd6 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd6 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd7{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd7 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd7 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+
+ .bd8{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd8 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd8 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd9{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd9 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd9 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+
+ .bd10{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd10 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd10 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd11{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd11 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd11 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+
+
+
+ .bd12{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd12 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd12 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd13{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd13 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd13 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd14{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd14 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd14 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd15{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd15 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd15 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd16{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd16 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd16 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd17{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd17 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd17 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd18{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd18 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd18 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd19{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd19 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd19 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd20{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd20 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd20 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd21{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd21 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd21 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd22{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd22 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd22 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd23{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd23 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd23 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ .bd24{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd24 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd24 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+
+ .bd25{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd25 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd25 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+
+ .bd26{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd26 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd26 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+ 
+ .bd27{
+    position: relative;
+    padding-left:15px;
+    padding-top: 12px;;
+ }
+ .bd27 a {
+    color:#007bff;
+    font-size:18px;
+    font-weight:600;
+    text-decoration: none;
+
+
+ }
+ .bd27 a:hover {
+    display:block ;
+     color: mediumblue;
+     text-decoration: underline;
+ }
+
+ .bd28{
+   position: relative;
+   padding-left:15px;
+   padding-top: 12px;;
+}
+.bd28 a {
+   color:#007bff;
+   font-size:18px;
+   font-weight:600;
+   text-decoration: none;
+
+
+}
+.bd28 a:hover {
+   display:block ;
+    color: mediumblue;
+    text-decoration: underline;
+}
+.bd29{
+   position: relative;
+   padding-left:15px;
+   padding-top: 12px;;
+}
+.bd29 a {
+   color:#007bff;
+   font-size:18px;
+   font-weight:600;
+   text-decoration: none;
+
+
+}
+.bd29 a:hover {
+   display:block ;
+    color: mediumblue;
+    text-decoration: underline;
+}
+ @media only screen and (min-width: 600px) {
+     .bar {
+         text-align: center;
+     }
+.bar a {
+   text-align: center;
+
+}
+.bd0{
+
+    padding-left: 20px;
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+
+ }
+ @media only screen and (min-width: 719px) {
+    .bar {
+        text-align: center;
+    }
+.bar a {
+  text-align: center;
+  color:red;
+
+}
+.bd0{
+
+   padding-left: 10px;
+   padding-top: 0;
+   padding-bottom: 0;
+}
+}
