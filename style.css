@@ -539,6 +539,43 @@ body{
      color: mediumblue;
      text-decoration: underline;
  }
+
+ .bd28{
+   position: relative;
+   padding-left:15px;
+   padding-top: 12px;;
+}
+.bd28 a {
+   color:#007bff;
+   font-size:18px;
+   font-weight:600;
+   text-decoration: none;
+
+
+}
+.bd28 a:hover {
+   display:block ;
+    color: mediumblue;
+    text-decoration: underline;
+}
+.bd29{
+   position: relative;
+   padding-left:15px;
+   padding-top: 12px;;
+}
+.bd29 a {
+   color:#007bff;
+   font-size:18px;
+   font-weight:600;
+   text-decoration: none;
+
+
+}
+.bd29 a:hover {
+   display:block ;
+    color: mediumblue;
+    text-decoration: underline;
+}
  @media only screen and (min-width: 600px) {
      .bar {
          text-align: center;
