@@ -1,0 +1,123 @@
+body{
+    padding: 3%;
+
+    background-color: #D2D0DD;
+  position: relative;
+   margin: auto;
+}
+
+.bd0{
+background: #FFFFFF;
+margin: auto;
+width: 100%;
+
+height: 520px;
+border: 1px solid #D2D0DD;
+
+display:flex;
+border-radius: 20px;
+}
+.bd02{
+    position: relative;
+    background: #F3F4F8;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    border-radius: 0 20px 20px 0;
+}
+
+.bd01{
+    position: relative;
+    background: #FFFFFF;
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+   display: inline-table;
+}
+.bd001{
+    padding-top: 70px;
+    height: 20px;
+    margin-left: 50px;
+    color: gray;
+    
+}
+.bd001 a{
+    font-size: 20px;
+   
+    position: absolute;
+   
+    
+    
+}
+.bd202{
+
+display: inline;
+position: absolute;
+padding-top: 5%;
+padding-left: 5%;
+margin-left: 20px;
+
+
+}
+.bd2001 h1{
+    padding-top: 10px;
+    letter-spacing: 10px;
+}
+.bd2001 h4{
+    margin-left: 20px;
+    position: relative;
+    font-style: normal;
+    font-weight: lighter;
+}
+#em1,#em2{
+  
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 17px;
+    width: 350px;
+    border: 2px solid #E3E3E5;
+    
+}
+.bd2002 a {
+
+    text-decoration: none;
+    color:#242B35;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.bd2002{
+    margin: auto;
+    padding-bottom: 20px;
+    margin-left: 20px;
+   
+}
+.edt1{
+    padding-top: 4px;
+}
+.btn{
+    text-align: center;
+    padding-top: 20px;
+}
+.btn button{
+
+    width: 300px;
+    padding: 10px;
+    height: 50px;
+    font-size: 18px;
+    background: #7F56DA;
+    border: none;
+    color:#FFFFFF;
+    border-radius: 20px;
+}
+
+.btn button:active{
+    background: orange;
+}
+.bd02 img{
+    padding-top: 110px;
+    width:400px;
+    height: 300px;
+    background-size: cover;
+    margin: auto;
+}
